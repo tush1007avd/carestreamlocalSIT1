@@ -1,2 +1,7 @@
 Hi I Am Tushar
 I am Data Engineer
+
+git checkout is --for show all branch
+git checkout -b branch_name --for create new Branch
+git checkout -d branch_name --for delete branch
+git branch -m branch_name  --for rename branch
